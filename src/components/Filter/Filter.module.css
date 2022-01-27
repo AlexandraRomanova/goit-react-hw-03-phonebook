@@ -1,0 +1,22 @@
+.label {
+  display: block;
+  margin-bottom: 25px;
+}
+
+.span {
+  color: #fff;
+  display: block;
+  text-align: center;
+  margin-bottom: 7px;
+}
+
+.input {
+  display: block;
+  width: 200px;
+  height: 14px;
+  padding: 5px;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 10px;
+  border: 1px solid grey;
+}
